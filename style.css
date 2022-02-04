@@ -1,0 +1,32 @@
+body
+{
+ font-family: 'Mochiy Pop P One', sans-serif;
+ background-size: cover;
+ color: goldenrod;
+}
+
+#footer
+{
+ bottom:0;
+ position:fixed;
+ background-color:black;
+ width:100%;
+ text-align: center;
+}
+
+#po
+{
+ background-color:black;
+ width:max-content;
+}
+
+#btn_start
+{
+ background-color:black;
+}
+
+canvas
+{
+ border-style: dotted;
+ border-color:goldenrod;
+}
